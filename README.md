@@ -30,44 +30,48 @@ FLUTTER_ELTRACO/
 <li>
   <h1>Leaderboard</h1>
   <p>Leaderboard merupakan sebuah fitur yang dapat melihat peringkat setelah memilih quiz selesai</p>
-  <img width="1919" height="1017" alt="Screenshot 2026-01-20 152518" src="https://github.com/user-attachments/assets/4f8ad290-5844-41a9-a611-df056f1ae0b0" />
+  <img width="1919" height="1017" alt="Screenshot 2026-01-20 152518" src="https://github.com/user-attachments/assets/ccd2aeb2-38e8-494a-905d-f0919f77eded" />
 </li>
 <li>
   <h1>Profil</h1>
   <p>Profil merupakan sebuah fitur yang dapat melihat profil setelah melakukan login</p>
-  <img width="1919" height="1012" alt="Screenshot 2026-01-20 152542" src="https://github.com/user-attachments/assets/c3edc354-1d69-4149-a871-f22507b8f9c2" />
+<img width="1919" height="1012" alt="Screenshot 2026-01-20 152542" src="https://github.com/user-attachments/assets/1c3ef264-0838-43b3-bdf5-ea4326ceaed2" />
 </li>
 <li>
   <h1>Riwayat</h1>
   <p>riwayat merupakan sebuah fitur yang dapat melihat ketika sudah selesai quiz nya</p>
-<img width="1919" height="1019" alt="Screenshot 2026-01-20 152532" src="https://github.com/user-attachments/assets/deb7b39f-d6b9-47a7-bf08-bcc865b9e5c9" />
+<img width="1919" height="1019" alt="Screenshot 2026-01-20 152532" src="https://github.com/user-attachments/assets/5d4a235a-0caa-477d-9ca7-9e09e470aca7" />
 </li>
 <li>
   <h1>Pilih quiz</h1>
   <p>merupakan sebuah fitur yang dapat memilih quiz yang diinginkan oleh pengguna</p>
-<img width="1919" height="1021" alt="Screenshot 2026-01-20 152502" src="https://github.com/user-attachments/assets/80d53056-21a9-4d45-9bca-6c4a927a1884" />
+<img width="1919" height="1021" alt="Screenshot 2026-01-20 152502" src="https://github.com/user-attachments/assets/23c6f1be-0406-44a2-bba3-909bf5828ccb" />
 </li>
 <li>
   <h1>Pengaturan</h1>
   <p>pengaturan merupakan sebuah fitur yang dapat melihat dan mengatur yang diinginkan oleh pengguna</p>
-<img width="1919" height="1013" alt="Screenshot 2026-01-20 152602" src="https://github.com/user-attachments/assets/176a554a-4ce0-4a08-ad18-d940e3d998e0" />
+<img width="1919" height="1013" alt="Screenshot 2026-01-20 152602" src="https://github.com/user-attachments/assets/a9bfa600-6934-4cf7-860c-1cec5a4ddf9d" />
 </li>
 <li>
   <h1>Tentang</h1>
   <p>merupakan tentang penjelasan dari sebuah platform tersebut</p>
-<img width="1919" height="1022" alt="Screenshot 2026-01-20 152610" src="https://github.com/user-attachments/assets/d50ae512-3236-406b-96dc-0fd4df083d2f" />
+<img width="1919" height="1022" alt="Screenshot 2026-01-20 152610" src="https://github.com/user-attachments/assets/2f5abec3-80b6-4597-b207-caffb4b96c4b" />
 </li>
 <li>
   <h1>Info</h1>
   <p>merupakan fitur dari penjelasan mengenai platform yang sudah dibuat</p>
-<img width="1919" height="1018" alt="Screenshot 2026-01-20 153537" src="https://github.com/user-attachments/assets/9248f640-8fb1-4668-8692-c576161650f0" />
-<img width="1919" height="906" alt="Screenshot 2026-01-20 153551" src="https://github.com/user-attachments/assets/d0947fce-ac06-4ab2-bad8-ae2d828a5a80" />
-</li>
+<img width="1919" height="1018" alt="Screenshot 2026-01-20 153537" src="https://github.com/user-attachments/assets/5ff34ac7-7180-4341-86fd-7c005fc4f5fc" />
+<img width="1919" height="906" alt="Screenshot 2026-01-20 153551" src="https://github.com/user-attachments/assets/5e5a66a3-2b5e-43dc-bdb5-5c07ac47c6cd" />
 <li>
   <h1>Keluar</h1>
   <p>merupakan fitur yang dapat ketika keluar maka akan ke arah login untuk mengakses ke halaman lain tersebut</p>
-<img width="1919" height="1020" alt="Screenshot 2026-01-20 153603" src="https://github.com/user-attachments/assets/b7d4f05b-96b9-48cd-8cc5-79f67110c814" />
-<img width="1919" height="1017" alt="Screenshot 2026-01-20 152444" src="https://github.com/user-attachments/assets/c97a207b-d426-44dc-a92b-aa59e5a3587f" />
+<img width="1919" height="1020" alt="Screenshot 2026-01-20 153603" src="https://github.com/user-attachments/assets/c8f52937-b5ee-40d9-8a09-2f57c6b256d4" />
+<img width="1919" height="1017" alt="Screenshot 2026-01-20 152444" src="https://github.com/user-attachments/assets/027d3c87-ca15-41f9-ac1d-ae0e6591cccd" />
+</li>
+<li>
+  <h1>Login dan register</h1>
+  <p>merupakan fitur yang dimana kalau register itu buat yang belum punya akun dan login itu yang sudah membuat register baru dan dari kedua nya bisa akses ke halaman pilih quiz dengan tombol kalau login itu masuk dan register itu daftar baru</p>
+  <img width="1919" height="1017" alt="Screenshot 2026-01-20 152444" src="https://github.com/user-attachments/assets/5c833ffa-211c-4e7b-82dd-02185445e685" />
 </li>
 <br>
 <p>berikut rekaman nya</p>
