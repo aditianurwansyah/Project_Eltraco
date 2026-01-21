@@ -74,8 +74,8 @@ FLUTTER_ELTRACO/
   <img width="1919" height="1017" alt="Screenshot 2026-01-20 152444" src="https://github.com/user-attachments/assets/5c833ffa-211c-4e7b-82dd-02185445e685" />
 </li>
 <br>
-<p>berikut rekaman nya</p>
-
+<p>berikut rekaman nya ada di youtube: </p>
+<p><a href="https://youtu.be/nsy5b6OS1eU"></a>SistemquizEltraco</p>
 <p>=============================================================================================================================================</p>
 </br>
 <h1>Tools yang digunakan yaitu:</h1>
