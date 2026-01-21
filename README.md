@@ -75,7 +75,7 @@ FLUTTER_ELTRACO/
 </li>
 <br>
 <p>berikut rekaman nya ada di youtube: </p>
-<p><a href="https://youtu.be/nsy5b6OS1eU"></a>SistemquizEltraco</p>
+<p><a href="https://youtu.be/nsy5b6OS1eU">SistemquizEltraco</a></p>
 <p>=============================================================================================================================================</p>
 </br>
 <h1>Tools yang digunakan yaitu:</h1>
