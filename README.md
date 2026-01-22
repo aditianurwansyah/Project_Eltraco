@@ -1,31 +1,8 @@
 # Project_Eltraco 
-<p>Project_eltraco (Explore – Tradisi – Community) adalah sebuah aplikasi quiz edukatif berbasis web & PWA yang mengajak pengguna menjelajahi kearifan lokal Indonesia melalui kuis interaktif, tantangan harian, dan sistem gamifikasi yang memikat.</p>
+<p>Project_eltraco (Explore – Tradisi – Community) adalah sebuah aplikasi quiz edukatif berbasis PWA yang mengajak pengguna menjelajahi kearifan lokal Indonesia melalui kuis interaktif.</p> 
 <p><a href="https://eltraco.netlify.app/">Eltraco</a></p>
 <p>berikut link deploy netlify diatas</p>
 <br>
-### 📂 Struktur Folder Proyek
-FLUTTER_ELTRACO/
-├── assets/                       # Aset gambar, ikon, dan animasi (Lottie/Rive)
-├── lib/                          # Source code utama aplikasi
-│   ├── core/                     # Utilitas global, tema, dan konstanta
-│   ├── features/                 # Implementasi fitur (Clean Architecture)
-│   │   ├── auth/                 # Fitur Autentikasi
-│   │   │   └── presentation/     # UI: login_page.dart
-│   │   ├── history/              # Fitur Riwayat Kuis
-│   │   │   └── presentation/     # UI: history_page.dart
-│   │   ├── leaderboard/          # Fitur Papan Skor
-│   │   │   └── presentation/     # UI: leaderboard_page.dart
-│   │   ├── profile/              # Fitur Profil Pengguna
-│   │   ├── quiz/                 # Fitur Utama Kuis
-│   │   │   ├── data/             # Model & Repository: quiz_model.dart, quiz_repo.dart
-│   │   │   └── presentation/     # UI: quiz_create_page.dart, quiz_list_page.dart, quiz_play_page.dart
-│   │   └── settings/             # Fitur Pengaturan
-│   │       └── presentation/     # UI: settings_page.dart
-│   ├── static/                   # Halaman statis: about_page.dart, info_page.dart
-│   ├── firebase_options.dart     # Konfigurasi Firebase
-│   └── main.dart                 # Titik masuk utama aplikasi
-├── pubspec.yaml                  # Konfigurasi dependensi proyek
-└── README.md                     # Dokumentasi proyek
 <p>==========================================================================</p>
 <p>Kemudian di dalam quiz tersebut ada fitur nya yaitu:</p>
 <p>==============================================================================================================================================</p>
@@ -110,3 +87,27 @@ FLUTTER_ELTRACO/
 | | `url_launcher` | `^6.3.2` | Membuka link web, email, atau nomor telepon. |
 | | `collection` | `^1.19.1` | Fungsi bantuan untuk manipulasi list, set, dan map. |
 | | `cupertino_icons` | `^1.0.8` | Kumpulan ikon bergaya iOS. |
+<p>=============================================================================================</p>
+### 📂 Struktur Folder Proyek
+FLUTTER_ELTRACO/
+├── assets/                       # Aset gambar, ikon, dan animasi (Lottie/Rive)
+├── lib/                          # Source code utama aplikasi
+│   ├── core/                     # Utilitas global, tema, dan konstanta
+│   ├── features/                 # Implementasi fitur (Clean Architecture)
+│   │   ├── auth/                 # Fitur Autentikasi
+│   │   │   └── presentation/     # UI: login_page.dart
+│   │   ├── history/              # Fitur Riwayat Kuis
+│   │   │   └── presentation/     # UI: history_page.dart
+│   │   ├── leaderboard/          # Fitur Papan Skor
+│   │   │   └── presentation/     # UI: leaderboard_page.dart
+│   │   ├── profile/              # Fitur Profil Pengguna
+│   │   ├── quiz/                 # Fitur Utama Kuis
+│   │   │   ├── data/             # Model & Repository: quiz_model.dart, quiz_repo.dart
+│   │   │   └── presentation/     # UI: quiz_create_page.dart, quiz_list_page.dart, quiz_play_page.dart
+│   │   └── settings/             # Fitur Pengaturan
+│   │       └── presentation/     # UI: settings_page.dart
+│   ├── static/                   # Halaman statis: about_page.dart, info_page.dart
+│   ├── firebase_options.dart     # Konfigurasi Firebase
+│   └── main.dart                 # Titik masuk utama aplikasi
+├── pubspec.yaml                  # Konfigurasi dependensi proyek
+└── README.md                     # Dokumentasi proyek
