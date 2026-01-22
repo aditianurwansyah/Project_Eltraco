@@ -1,6 +1,6 @@
 # Project_Eltraco 
 <p>Project_eltraco (Explore – Tradisi – Community) adalah sebuah aplikasi quiz edukatif berbasis web & PWA yang mengajak pengguna menjelajahi kearifan lokal Indonesia melalui kuis interaktif, tantangan harian, dan sistem gamifikasi yang memikat.</p>
-<p><a href="https://eltraco.netlify.app/"></a>Eltraco</p>
+<p><a href="https://eltraco.netlify.app/">Eltraco</a></p>
 <p>berikut link deploy netlify diatas</p>
 <br>
 ### 📂 Struktur Folder Proyek
